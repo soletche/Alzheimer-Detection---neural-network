@@ -12,3 +12,5 @@ Class - 4: Very Mild Demented (2240 images)
 
 Motive
 The main motive behind sharing this dataset is to design/develop an accurate framework or architecture for the classification of Alzheimers Disease
+
+ I also include an explanation regarding Principal Component Analysis (PCA) and key concepts related to explained variance.
